@@ -1,0 +1,8 @@
+
+{
+  "name": "Multilingual Voice Bot Prototype",
+  "description": "A sophisticated Hindi-English voice bot featuring real-time interaction, OTP validation, voice printing, and low-latency metrics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
